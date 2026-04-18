@@ -20,38 +20,42 @@ A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, d
 
 ![Read Files](./Screenshot/Read%20files.png)
 
-## ⚙️ Installation & Launch Guide
-Follow these steps to get your Discord AI Bot up and running:
+## ⚙️ Setup & Launch Guide
 
-### 1. Environment Setup
-Create a `.env` file in the bot's root directory and add your credentials:
-```env
-DISCORD_TOKEN=your_discord_token
-GOOGLE_API_KEY=your_gemini_key
-TESSERACT_PATH=C:\Program Files\Tesseract-OCR\tesseract.exe
-```
+### Step 1: Python Installation
+- Press `Windows + R`, type `cmd`, and press Enter.
+- Type `python --version` to check if Python is installed.
+- If not found, download it from [python.org](https://www.python.org/downloads/).
 
-### 2. Prerequisites
-- Ensure **Python 3.9+** is installed. Check using: `python --version`
-- Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases) if you plan on using the image-to-text features.
+### Step 2: Prerequisites
+- Install **Tesseract OCR** on your system.
+- Obtain a **Discord Bot Token** and a **Google AI (Gemini) API Key**.
+- Configure the `.env` file:
+   ```env
+   DISCORD_TOKEN=your_discord_token
+   GOOGLE_API_KEY=your_gemini_key
+   TESSERACT_PATH=C:\Program Files\Tesseract-OCR\tesseract.exe
+   ```
 
-### 3. Launching the Bot
-1. Open your terminal or CMD.
-2. Navigate to the project folder.
-3. Install dependencies:
+### Step 3: Launching the Bot
+1. Navigate to the bot's folder:
+   ```bash
+   cd "path\to\your\bot"
+   ```
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-4. Start the bot:
+3. Start the bot:
    ```bash
    python TGFR.py
    ```
 
-### 4. Confirmation
+### Step 4: Confirmation
 If successful, you will see:
-`✅ Logged in as YourBotName (ID: ...)`
+`✅ Logged in as YourBotName (ID: 1234567890)`
 
-Now go to your Discord server and type `!ask Hello!` to start chatting with your AI.
+Now you can head to Discord and use `!ask <prompt>` or `!read` to interact with your AI!
 
 ## 📦 Tech Stack
 - **Framework**: Discord.py
