@@ -5,7 +5,7 @@
 
 A modern web-based chatbot application featuring a **Flask** backend and a robust NLP model based on Facebook's **BlenderBot**.
 
-![Web Chat Screenshot](./Screenshots/Web%20Chat%20.png)
+![Web Chat Screenshot](./Screenshots%20web/Web%20Chat%20.png)
 
 ## ✨ Features
 - **Natural Conversations**: Uses the `blenderbot-400M-distill` model for human-like dialogue.

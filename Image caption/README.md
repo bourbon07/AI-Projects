@@ -5,7 +5,7 @@
 
 This project provides a professional-grade image captioning tool using the **BLIP-2 (OPT-2.7B)** architecture from Salesforce Research. It generates highly descriptive and accurate captions for any uploaded image.
 
-![Captioning Screenshot](./Screenshot/image%20caption%20screenshot.png)
+![Captioning Screenshot](./Screenshot%20image%20caption/image%20caption%20screenshot.png)
 
 ## 🚀 How it Works
 The system leverages Salesforce's `blip2-opt-2.7b` model, which excels at understanding visual context and translating it into natural language. It utilizes **Beam Search** with 5 beams to ensure the generated sentences are diverse and high-quality.
