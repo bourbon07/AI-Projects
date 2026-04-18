@@ -5,7 +5,7 @@
 
 A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, designed to enhance server interaction with AI intelligence and document processing capabilities.
 
-![AI Chatting](./Screenshot%20dis/AI%20chatting.png)
+![AI Chatting](./.screenshots/AI%20chatting.png)
 
 ## 🌟 Features
 - **Intelligent Conversation**: Powered by Google's `Gemini 2.0 Flash` for ultra-fast and coherent chat interactions.
@@ -18,7 +18,7 @@ A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, d
 - `!read`: After uploading an image or PDF, use this command to extract its text.
 - `!ping`: Check bot latency.
 
-![Read Files](./Screenshot%20dis/Read%20files.png)
+![Read Files](./.screenshots/Read%20files.png)
 
 ## ⚙️ Setup & Launch Guide
 

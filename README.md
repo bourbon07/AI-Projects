@@ -9,6 +9,11 @@ Welcome to the AI Projects Repository. This is a collection of high-impact Machi
 
 ## 🏗️ Featured Projects
 
+### 🤖 [Shehab Store Assistant](./Shehab)
+*AI Store & E-commerce Agent* | An LLM-powered agent developed with **Flowise** to provide intelligent store assistance, product searches, and metadata analysis.
+- **Tech**: Flowise, LLM Agents, Node.js (Custom Tools)
+- **Key Feature**: Custom API tools for real-time product/package retrieval and collection filtering.
+
 ### 🚦 [Traffic Management System](./Traffic%20Management%20System)
 *Graduation Project* | A high-performance traffic signal controller using **YOLOv11** for real-time car density analysis.
 - **Tech**: YOLOv11, OpenCV, Gradio
@@ -34,7 +39,7 @@ Interactive web-based chatbot using the **BlenderBot** model.
 ## 👤 Developer Profile
 **Fawaz Allan**  
 AI Developer & Computer Vision Specialist  
-*Expertise in YOLO, Gemini, and Transformer Architectures.*
+*Expertise in YOLO, Gemini, Flowise, and Transformer Architectures.*
 
 - 📧 [Gmail](mailto:fwzallan@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)
