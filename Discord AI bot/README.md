@@ -28,7 +28,7 @@ A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, d
 - If not found, download it from [python.org](https://www.python.org/downloads/).
 
 ### Step 2: Prerequisites
-- **Install Tesseract OCR**: Download the Windows installer (`.exe`) from [UB-Mannheim/Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki).
+- **Install Tesseract OCR**: Download the Windows installer (`.exe`) from [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki).
 - **Obtain API Keys**: Get a **Discord Bot Token** and a **Google AI (Gemini) API Key**.
 - **Configure the .env file**:
    ```env
