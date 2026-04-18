@@ -44,5 +44,3 @@ AI Developer & Computer Vision Specialist
 - 📧 [Gmail](mailto:fwzallan@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)
 
----
-*Created with ❤️ by Fawaz Allan*

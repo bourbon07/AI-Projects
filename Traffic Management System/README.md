@@ -8,7 +8,7 @@
 This project addresses metropolitan congestion by implementing a smart, density-aware traffic signal controller. Using **YOLOv11**, the system analyzes real-time surveillance feeds to calculate vehicle density and dynamically adjusts signal timing to prioritize crowded intersections.
 
 ## 📈 Project Flow
-![Project Flow - Block Diagram](./.screenshots/Block%20Diagram%20(project%20flow).png)
+![Project Flow - Block Diagram](../.github/assets/traffic/Block%20Diagram%20(project%20flow).png)
 
 ## ✨ Core Features
 - **Dynamic Signal Timing**: Automatically adds +10 seconds to the green light phase of the intersection with the highest car density.
@@ -33,9 +33,9 @@ The models were trained extensively on custom datasets. Below are the performanc
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="./.screenshots/chack%20plate%201.jpg" width="30%" alt="Plate Check" />
-  <img src="./.screenshots/signs%20.jpg" width="30%" alt="Sign Detection" />
-  <img src="./.screenshots/Extract%20numbers.jpg" width="30%" alt="Number Extraction" />
+  <img src="../.github/assets/traffic/chack%20plate%201.jpg" width="30%" alt="Plate Check" />
+  <img src="../.github/assets/traffic/signs%20.jpg" width="30%" alt="Sign Detection" />
+  <img src="../.github/assets/traffic/Extract%20numbers.jpg" width="30%" alt="Number Extraction" />
 </div>
 
 ## 🛠️ Installation

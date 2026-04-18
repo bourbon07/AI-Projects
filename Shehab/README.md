@@ -4,7 +4,7 @@
 
 **Shehab** is a sophisticated LLM-powered store assistant designed to provide a seamless e-commerce experience. Built using **Flowise**, Shehab acts as an intelligent agent capable of interacting with live APIs to retrieve product information, metadata, and featured collections.
 
-![Shehab Design](./.screenshots/Shehab%20Design%20.png)
+![Shehab Design](../.github/assets/shehab/Shehab%20Design%20.png)
 
 ## 🛠️ Custom AI Tools
 Shehab is equipped with specialized JavaScript tools that bridge the gap between the LLM and the store's backend:
@@ -19,8 +19,11 @@ Shehab is equipped with specialized JavaScript tools that bridge the gap between
 
 ## 📸 Functionality Overview
 <div align="center">
-  <img src="./.screenshots/Products%20and%20packages.png" width="45%" alt="Search Tools" />
-  <img src="./.screenshots/Metadata.png" width="45%" alt="Metadata Tool" />
+  <img src="../.github/assets/shehab/Products%20and%20packages.png" width="45%" alt="Search Tools" />
+  <img src="../.github/assets/shehab/Recipe%201.png" width="45%" alt="Recipe Feature" />
+</div>
+<div align="center">
+  <img src="../.github/assets/shehab/Metadata.png" width="91%" alt="Metadata Tool" />
 </div>
 
 ## 🚀 Technical Implementation
