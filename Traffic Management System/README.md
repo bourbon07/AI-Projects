@@ -8,7 +8,7 @@
 This project addresses metropolitan congestion by implementing a smart, density-aware traffic signal controller. Using **YOLOv11**, the system analyzes real-time surveillance feeds to calculate vehicle density and dynamically adjusts signal timing to prioritize crowded intersections.
 
 ## 📈 Project Flow
-(See project documentation for architecture diagrams)
+![Project Flow - Block Diagram](./screenshots/Block%20Diagram%20(project%20flow).png)
 
 ## ✨ Core Features
 - **Dynamic Signal Timing**: Automatically adds +10 seconds to the green light phase of the intersection with the highest car density.
@@ -24,9 +24,19 @@ The system is composed of several specialized AI models:
 3. **Number OCR**: Specialized model for extracting numerical data from license plates.
 4. **Sign Detection**: Recognizes traffic signs to ensure compliance.
 
-## 📸 Training Results
-The models were trained extensively on custom datasets. Performance metrics for the density and plate recognition modules show high mAP scores across all classes.
+## 📊 Model Performance
+The models were trained extensively on custom datasets. Below are the performance metrics for the density and plate recognition modules:
 
+| Accuracy Metrics (YOLOv11) | Results Graph |
+| :---: | :---: |
+| ![Confusion Matrix](./TrafficJam_YOLO11l/runs/detect/train/confusion_matrix.png) | ![Training Results](./TrafficJam_YOLO11l/runs/detect/train/results.png) |
+
+## 📸 Screenshots
+<div align="center">
+  <img src="./screenshots/chack%20plate%201.jpg" width="30%" alt="Plate Check" />
+  <img src="./screenshots/signs%20.jpg" width="30%" alt="Sign Detection" />
+  <img src="./screenshots/Extract%20numbers.jpg" width="30%" alt="Number Extraction" />
+</div>
 
 ## 🛠️ Installation
 1. Install dependencies:

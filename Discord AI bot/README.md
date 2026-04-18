@@ -5,7 +5,7 @@
 
 A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, designed to enhance server interaction with AI intelligence and document processing capabilities.
 
-📄 **Intelligent Document Processing & AI Interaction**
+![AI Chatting](./Screenshot/AI%20chatting.png)
 
 ## 🌟 Features
 - **Intelligent Conversation**: Powered by Google's `Gemini 2.0 Flash` for ultra-fast and coherent chat interactions.
@@ -18,6 +18,8 @@ A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, d
 - `!read`: After uploading an image or PDF, use this command to extract its text.
 - `!ping`: Check bot latency.
 
+![Read Files](./Screenshot/Read%20files.png)
+
 ## ⚙️ Setup & Launch Guide
 
 ### Step 1: Python Installation
@@ -26,9 +28,9 @@ A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, d
 - If not found, download it from [python.org](https://www.python.org/downloads/).
 
 ### Step 2: Prerequisites
-- Install **Tesseract OCR** on your system: [tesseract.exe](https://github.com/UB-Mannheim/tesseract/wiki)
-- Obtain a **Discord Bot Token** and a **Google AI (Gemini) API Key**.
-- Configure the `.env` file:
+- **Install Tesseract OCR**: Download the Windows installer (`.exe`) from [UB-Mannheim/Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki).
+- **Obtain API Keys**: Get a **Discord Bot Token** and a **Google AI (Gemini) API Key**.
+- **Configure the .env file**:
    ```env
    DISCORD_TOKEN=your_discord_token
    GOOGLE_API_KEY=your_gemini_key
