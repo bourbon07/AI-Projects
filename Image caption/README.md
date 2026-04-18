@@ -36,4 +36,5 @@ By utilizing the OPT-2.7B backbone, the model provides a significant jump in acc
 ### 👤 Developer
 **Fawaz Allan**  
 AI Research & Development  
-[GitHub Profile](https://github.com/bourbon07)
+
+📧 [Gmail](mailto:fwzallan@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)

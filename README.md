@@ -36,9 +36,8 @@ Interactive web-based chatbot using the **BlenderBot** model.
 AI Developer & Computer Vision Specialist  
 *Expertise in YOLO, Gemini, and Transformer Architectures.*
 
-- 📧 [Contact me](mailto:fawazallan@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fawazallan/)
-- 🐙 [GitHub](https://github.com/bourbon07)
+- 📧 [Gmail](mailto:fwzallan@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)
 
 ---
 *Created with ❤️ by Fawaz Allan*

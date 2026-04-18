@@ -56,4 +56,5 @@ Developed as part of the graduation requirements, focusing on the intersection o
 ### 👤 About the Author
 **Fawaz Allan**  
 AI & Computer Vision Developer  
-[GitHub Profile](https://github.com/bourbon07) | [LinkedIn](https://www.linkedin.com/in/fawazallan/)
+
+📧 [Gmail](mailto:fwzallan@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)

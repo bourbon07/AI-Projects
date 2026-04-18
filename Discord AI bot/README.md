@@ -67,4 +67,5 @@ Now you can head to Discord and use `!ask <prompt>` or `!read` to interact with 
 ### 👤 Developer
 **Fawaz Allan**  
 AI & Flutter Developer  
-[GitHub Profile](https://github.com/bourbon07)
+
+📧 [Gmail](mailto:fwzallan@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)
