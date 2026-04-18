@@ -20,21 +20,38 @@ A versatile Discord bot powered by **Gemini 2.0 Flash** and **Tesseract OCR**, d
 
 ![Read Files](./Screenshot/Read%20files.png)
 
-## ⚙️ Setup
-1. **Prerequisites**:
-   - Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases) on your system.
-   - A Discord Bot Token (via Developer Portal).
-   - A Google AI (Gemini) API Key.
-2. **Environment**: Create a `.env` file with:
-   ```env
-   DISCORD_TOKEN=your_discord_token
-   GOOGLE_API_KEY=your_gemini_key
-   TESSERACT_PATH=C:\Program Files\Tesseract-OCR\tesseract.exe
+## ⚙️ Installation & Launch Guide
+Follow these steps to get your Discord AI Bot up and running:
+
+### 1. Environment Setup
+Create a `.env` file in the bot's root directory and add your credentials:
+```env
+DISCORD_TOKEN=your_discord_token
+GOOGLE_API_KEY=your_gemini_key
+TESSERACT_PATH=C:\Program Files\Tesseract-OCR\tesseract.exe
+```
+
+### 2. Prerequisites
+- Ensure **Python 3.9+** is installed. Check using: `python --version`
+- Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases) if you plan on using the image-to-text features.
+
+### 3. Launching the Bot
+1. Open your terminal or CMD.
+2. Navigate to the project folder.
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
    ```
-3. **Run**:
+4. Start the bot:
    ```bash
    python TGFR.py
    ```
+
+### 4. Confirmation
+If successful, you will see:
+`✅ Logged in as YourBotName (ID: ...)`
+
+Now go to your Discord server and type `!ask Hello!` to start chatting with your AI.
 
 ## 📦 Tech Stack
 - **Framework**: Discord.py
