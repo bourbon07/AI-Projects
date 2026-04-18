@@ -1,0 +1,22 @@
+# Python patterns
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+.env
+venv/
+.venv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large AI Models (Optional: Un-comment if you want to exclude large weights)
+# *.pt
+# *.pth
+# *.h5
+# *.onnx
+
+# Executables
+*.exe
+*.msi

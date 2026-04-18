@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+PyMuPDF
+pytesseract
+Pillow
+nest_asyncio
+google-genai
